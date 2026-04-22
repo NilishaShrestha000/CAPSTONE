@@ -2,7 +2,7 @@
 Nepal TFlow is a smart tourism management platform designed to predict and analyze crowd movements using Time-Series Forecasting. It helps the tourism sector in Nepal make data-driven decisions to prevent overcrowding and improve visitor experiences.
 
 # Tech Stack
-**Frontend**: React.js, Tailwind CSS, React Router
+**Frontend**: react and react-dom, react-router-dom, chart.js and react-chartjs-2, tailwindcss
 
 **Backend**: Node.js / Express (or your specific backend)
 
